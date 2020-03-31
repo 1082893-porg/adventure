@@ -1,0 +1,24 @@
+{
+    "name": "Adventure",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "darts": "*",
+        "controller": "*",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.6",
+        "edge-connector": "*",
+        "sevenseg": "*",
+        "palette": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.2"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
